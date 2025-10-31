@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "690488f1b7cffc02ddaafee4"
+  },
+  "name": "Marta Soler",
+  "address": {
+    "street": "Carrer de la Rosa",
+    "number": "21",
+    "floor": "1",
+    "door": "A",
+    "city": "Barcelona",
+    "postal_code": "08012",
+    "country": "Spain"
+  },
+  "phone": "+34 612 239 236",
+  "email": "marta.soler@gmil.com",
+  "register_date": "15-09-2024",
+  "recommended_by": null,
+  "purchases": [
+    {
+      "purchase_id": "PUR-20348382-001",
+      "sale_date": "15-09-2024T10:45:00Z",
+      "employee": {
+        "id": "EMP002",
+        "name": "Carlos Martinez"
+      },
+      "glasses": {
+        "brand": "VisionLux",
+        "graduation": {
+          "left": -1.25,
+          "right": -2
+        },
+        "frame_type": "pasta",
+        "frame_color": "negro",
+        "lens_color": {
+          "left": "gris",
+          "right": "gris"
+        },
+        "supplier_name": "Vision Lux SL"
+      },
+      "price": 129.99,
+      "notes": "Revisión de vista incluida"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69048da4b7cffc02ddaafee6"
+  },
+  "name": "Joan Puig",
+  "address": {
+    "street": "Plaza Major",
+    "number": "3",
+    "floor": "2",
+    "door": "B",
+    "city": "Girona",
+    "postal_code": "17001",
+    "country": "Spain"
+  },
+  "phone": "+34 678 901 234",
+  "email": "joa.puig@gmail.com",
+  "register_date": "03-04-2023",
+  "recommended_by": "Antoni Riera",
+  "purchases": [
+    {
+      "purchase_id": "PUR-20231010-117",
+      "sale_date": "10-10-2023T16:30:00Z",
+      "employee": {
+        "id": "EMP003",
+        "name": "Laia Gomez"
+      },
+      "glasses": {
+        "brand": "GlobalEyes",
+        "graduation": {
+          "left": -3,
+          "right": -1.75
+        },
+        "frame_type": "metálica",
+        "frame_color": "dorado",
+        "lens_color": {
+          "left": "transparente",
+          "right": "transparente"
+        },
+        "supplier_name": "GlobalEyes Distribution"
+      },
+      "price": 189,
+      "notes": "Tratamiento anti-reflejante"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69048eadb7cffc02ddaafee8"
+  },
+  "name": "Laura Ferrer",
+  "address": {
+    "street": "Carrer Nou",
+    "number": "58",
+    "floor": "entresuelo",
+    "door": "A",
+    "city": "Barcelona",
+    "postal_code": "08018",
+    "country": "Spain"
+  },
+  "phone": "+34 678 836 120",
+  "email": "laura_ferrer@gmail.com",
+  "register_date": "10-01-2025",
+  "recommended_by": null,
+  "purchases": [
+    {
+      "purchase_id": "PUR-22384954-009",
+      "sale_date": "10-01-2025T18:45:00Z",
+      "employee": {
+        "id": "EMP001",
+        "name": "Sara Vidal"
+      },
+      "glasses": {
+        "brand": "OptiWorld",
+        "graduation": {
+          "left": -5,
+          "right": -5.75
+        },
+        "frame_type": "flotante",
+        "frame_color": "transparente",
+        "lens_color": {
+          "left": "azul claro",
+          "right": "azul claro"
+        },
+        "supplier_name": "OptiWorld Supplies"
+      },
+      "price": 149.99,
+      "notes": "Gafa progresiva, periodo de adaptación de 30 días"
+    }
+  ]
+}]
