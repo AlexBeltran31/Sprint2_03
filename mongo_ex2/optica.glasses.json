@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "6906626db7cffc02ddaafef5"
+  },
+  "model_id": "GAF001",
+  "brand": "VisionLux",
+  "frame_type": "pasta",
+  "frame_color": "negro",
+  "lens_color": {
+    "left": "gris",
+    "right": "gris"
+  },
+  "price": 129.9,
+  "supplier": {
+    "supplier_id": "SUP001",
+    "name": "Vision Lux SL"
+  },
+  "buyers": [
+    {
+      "client_id": "CLI001",
+      "name": "Marta Soler",
+      "purchase_id": "PUR-20348382-001",
+      "sale_date": "15-09-2024T10:45:00Z",
+      "employee": {
+        "id": "EMP002",
+        "name": "Carlos Martinez"
+      },
+      "price": 129.9,
+      "notes": "Revisión de vista incluída"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6906626db7cffc02ddaafef6"
+  },
+  "model_id": "GAF002",
+  "brand": "GlobalEyes Classic",
+  "frame_type": "metálida",
+  "frame_color": "dorado",
+  "lens_color": {
+    "left": "transparente",
+    "right": "transparente"
+  },
+  "price": 189,
+  "supplier": {
+    "supplier_id": "SUP002",
+    "name": "GlobalEyes Distribution"
+  },
+  "buyers": [
+    {
+      "client_id": "CLI002",
+      "name": "Joan Puig",
+      "purchase_id": "PUR-20231010-117",
+      "sale_date": "10-10-2023T16:30:00Z",
+      "employee": {
+        "id": "EMP003",
+        "name": "Laia Gomez"
+      },
+      "price": 189,
+      "notes": "Tratamiento anti-reflejante"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6906626db7cffc02ddaafef7"
+  },
+  "model_id": "GAF003",
+  "brand": "OptiWorld Aero",
+  "frame_type": "flotante",
+  "frame_color": "transparente",
+  "lens_color": {
+    "left": "azul claro",
+    "right": "azul claro"
+  },
+  "price": 149.99,
+  "supplier": {
+    "supplier_id": "SUP003",
+    "name": "OptiWorld Supplies"
+  },
+  "buyers": [
+    {
+      "client_id": "CLI003",
+      "name": "Laura Ferrer",
+      "purchase_id": "PUR-22384954-009",
+      "sale_date": "10-01-2025T18:45:00Z",
+      "employee": {
+        "id": "EMP001",
+        "name": "Sara Vidal"
+      },
+      "price": 149.99,
+      "notes": "Gafa progresiva, periodo de adaptación de 30 días"
+    }
+  ]
+}]

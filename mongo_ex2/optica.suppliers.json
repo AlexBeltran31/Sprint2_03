@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "69065f4ab7cffc02ddaafef1"
+  },
+  "supplier_id": "SUP001",
+  "name": "Vision Lux SL",
+  "address": {
+    "street": "Carrer dels Lents",
+    "number": "45",
+    "floor": "2",
+    "door": "B",
+    "city": "Barcelona",
+    "postal_code": "08015",
+    "country": "Spain"
+  },
+  "phone": "+34 932 348 234",
+  "fax": "+34 932 348 192",
+  "NIF": "B23475820"
+},
+{
+  "_id": {
+    "$oid": "69065f4ab7cffc02ddaafef2"
+  },
+  "supplier_id": "SUP002",
+  "name": "GlobalEyes Distribution",
+  "address": {
+    "street": "Calle del Sol",
+    "number": "89",
+    "floor": "4",
+    "door": "B",
+    "city": "Madrid",
+    "postal_code": "28028",
+    "country": "Spain"
+  },
+  "phone": "+34 934 128 903",
+  "fax": "+34 934 128 902",
+  "NIF": "A50384612"
+},
+{
+  "_id": {
+    "$oid": "69065f4ab7cffc02ddaafef3"
+  },
+  "supplier_id": "SUP003",
+  "name": "OptiWorld Supplies",
+  "address": {
+    "street": "Av. de la Llum",
+    "number": "12",
+    "floor": "1",
+    "door": "A",
+    "city": "Barcelona",
+    "postal_code": "08012",
+    "country": "Spain"
+  },
+  "phone": "+34 932 342 129",
+  "fax": "+34 932 342 125",
+  "NIF": "B80125926"
+}]
