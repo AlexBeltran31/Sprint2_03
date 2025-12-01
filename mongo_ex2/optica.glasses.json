@@ -11,14 +11,10 @@
     "right": "gris"
   },
   "price": 129.9,
-  "supplier": {
-    "supplier_id": "SUP001",
-    "name": "Vision Lux SL"
-  },
+  "supplier_id": "SUP001",
   "buyers": [
     {
       "client_id": "CLI001",
-      "name": "Marta Soler",
       "purchase_id": "PUR-20348382-001",
       "sale_date": "15-09-2024T10:45:00Z",
       "employee": {
@@ -43,14 +39,10 @@
     "right": "transparente"
   },
   "price": 189,
-  "supplier": {
-    "supplier_id": "SUP002",
-    "name": "GlobalEyes Distribution"
-  },
+  "supplier_id": "SUP002",
   "buyers": [
     {
       "client_id": "CLI002",
-      "name": "Joan Puig",
       "purchase_id": "PUR-20231010-117",
       "sale_date": "10-10-2023T16:30:00Z",
       "employee": {
@@ -75,14 +67,10 @@
     "right": "azul claro"
   },
   "price": 149.99,
-  "supplier": {
-    "supplier_id": "SUP003",
-    "name": "OptiWorld Supplies"
-  },
+  "supplier_id": "SUP003",
   "buyers": [
     {
       "client_id": "CLI003",
-      "name": "Laura Ferrer",
       "purchase_id": "PUR-22384954-009",
       "sale_date": "10-01-2025T18:45:00Z",
       "employee": {
